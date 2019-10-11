@@ -1,3 +1,4 @@
 <?php
-gema "zooooonk";
+$banner="zooooonk";
+echo $banner
 ?>
