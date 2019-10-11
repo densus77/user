@@ -1,4 +1,4 @@
 <?php
 $banner="zooooonk";
-echo $banner
+echo $banner;
 ?>
