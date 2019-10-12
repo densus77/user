@@ -16,8 +16,6 @@ Support : Member Family Vlll    Grup Tele : @jancokkau990
 \033[1;36m●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━
 \033[1;31mLink Ambil Pasword : [ http://alfinpay.site/p/b0mSh ] \n";
 
-echo $banner;
-echo $banner;
 echo "\033[1;32mMasukan pasword => \033[1;35m:";
 $i = trim(fgets(STDIN));
 ?>
