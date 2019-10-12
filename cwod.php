@@ -13,7 +13,7 @@ $banner = "\033[1;36m●━━━━●━━━━●━━━━●━━━�
 \033[1;33mCreator : Tim Ninja             Chanel YT : Family Vlll
 Support : Member Family Vlll    Grup Tele : @jancokkau990
 \033[1;36m●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━\n";
-echo $banner;
+
 echo "\033[1;31mLink Ambil Pasword : [ http://alfinpay.site/p/b0mSh ] \n";
 $ i = readline ("\ 033 [1; 32mMasukan pasword => \ 033 [1; 35m");
 ?>
