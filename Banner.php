@@ -14,7 +14,7 @@ $banner ="
 \033[1;33mCreator : Tim Ninja             Chanel YT : Family Vlll
 Support : Member Family Vlll    Grup Tele : @jancokkau990
 \033[1;36m●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━●━━━━
-\033[1;31mLink Ambil Pasword : [ https://duit.cc/HxMP ] \n";
+\033[1;31mLink Ambil Pasword : [ https://duit.cc/MwXh] \n";
 
 echo "\033[1;32mMasukan pasword => \033[1;35m:";
 $i = trim(fgets(STDIN));
